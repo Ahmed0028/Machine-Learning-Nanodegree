@@ -3,11 +3,11 @@
 
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. 
-**1- Machine learning techniques and algorithms.
-**2-How to package and deploy your models to a production environment.
-**3-Practical experience using Amazon SageMaker to deploy trained models to a web application.
-**4-Evaluate the Models Performance.
-**5-How to Update the Models As You Gather More Data.
+### 1- Machine learning techniques and algorithms.
+### 2-How to package and deploy your models to a production environment.
+### 3-Practical experience using Amazon SageMaker to deploy trained models to a web application.
+### 4-Evaluate the Models Performance.
+### 5-How to Update the Models As You Gather More Data.
 
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
