@@ -2,7 +2,7 @@
 
 
 
-This repository contains material related to Udacity's [Machine Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. 
+This repository contains material related to Udacity's [Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) program. It consists of a bunch of tutorial notebooks for various deep learning topics. 
 ##### 1- Machine learning techniques and algorithms.
 ##### 2-How to package and deploy your models to a production environment.
 ##### 3-Practical experience using Amazon SageMaker to deploy trained models to a web application.
